@@ -1,0 +1,3 @@
+1. Address verification is based on 's AIS system.
+2. Once an address is verified the GPS coordinates from the AIS system are saved into the DB.
+3. The Google Map is populated with those GPS coordinates.
